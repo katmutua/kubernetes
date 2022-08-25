@@ -1,5 +1,5 @@
 dependencies:
-  # zeitgeist (https://github.com/kubernetes-sigs/zeitgeist) was inspired by
+  # zeitgeist (https://github.com/kubernetes-sigs/zeitgeist) was inspired by 
   # (and now replaces) the cmd/verifydependencies tool to verify external
   # dependencies across the repo.
   #
